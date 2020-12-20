@@ -1,5 +1,5 @@
 # Graph-Convolutional-Networks-GCNs
-To explore Graph Convolutional Networks (GCNs) by building a simple graph using the NetworkX library.  
+To explore Graph Convolutional Networks (GCNs) by building a simple graph using the NetworkX library and implementing a forward pass of GCN.    
   
 Reference:  
 Kipf Thomas N. and Welling Max, "Semi-Supervised Classification with Graph Convolutional Networks",  
