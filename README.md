@@ -1,2 +1,2 @@
 # Graph-Convolutional-Networks-GCNs
-GCNs using NetworkX library.
+To explore Graph Convolutional Networks (GCNs) by building a simple graph using the NetworkX library.
